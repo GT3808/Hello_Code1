@@ -1,3 +1,3 @@
-﻿String username = Console.Readline();
+﻿String username = Console.ReadLine();
 Console.WriteLine("Hello, ");
 Console.WriteLine(username);
